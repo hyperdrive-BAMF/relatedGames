@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
+import $ from 'jquery'
+import data from './dummyData.js'
 
 class App extends React.Component {
   constructor(props) {
@@ -11,11 +13,11 @@ class App extends React.Component {
 
   render() {
     return (
-    <div>HELLO WORLD!!!</div>
+    <div className="col-md-5">Hello from react!!!</div>
     )
   }
 }
 
 
 
-ReactDOM.render(<App/>, document.getElementById('app'));
+ReactDOM.render(<App data={data}/>, document.getElementById('app'));
