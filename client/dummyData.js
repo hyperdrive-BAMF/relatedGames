@@ -20,7 +20,7 @@ const dummyGames = [
     price: 49.99,
     rating: "positive",
     categories: ["rpg", "3rd person", "fantasy"],
-    thumbnail: "game_image_1003.jpg",
+    thumbnail: "game_image_1008.jpg",
     screenshots: [
       "s3.com/image1234.jpg", "s3.com/image1235.jpg", "s3.com/image1236.jpg"
     ]
@@ -32,7 +32,7 @@ const dummyGames = [
     price: 59.99,
     rating: "positive",
     categories: ["rpg", "3rd person", "violent"],
-    thumbnail: "game_image_1004.jpg",
+    thumbnail: "game_image_1009.jpg",
     screenshots: [
       "s3.com/image1034.jpg", "s3.com/image1035.jpg", "s3.com/image1036.jpg"
     ]
@@ -44,7 +44,7 @@ const dummyGames = [
     price: 59.99,
     rating: "positive",
     categories: ["rpg", "3rd person", "violent"],
-    thumbnail: "game_image_1005.jpg",
+    thumbnail: "game_image_1010.jpg",
     screenshots: [
       "s3.com/image1034.jpg", "s3.com/image1035.jpg", "s3.com/image1036.jpg"
     ]
