@@ -8,11 +8,9 @@ Categories: array of strings - all category tags the game has stored under,
 Thumbnail: string - link to images stored on S3,
 Screenshots: array of strings - links to images stored on S3,
 */
-
-
+//STREATCH FEATURES
 //add total sales 
 //release data
-//
 
 const dummyGames = [
   {
@@ -22,7 +20,7 @@ const dummyGames = [
     price: 49.99,
     rating: "positive",
     categories: ["rpg", "3rd person", "fantasy"],
-    thumbnail: "s3.com/image1233.jpg",
+    thumbnail: "game_image_1003.jpg",
     screenshots: [
       "s3.com/image1234.jpg", "s3.com/image1235.jpg", "s3.com/image1236.jpg"
     ]
@@ -34,7 +32,7 @@ const dummyGames = [
     price: 59.99,
     rating: "positive",
     categories: ["rpg", "3rd person", "violent"],
-    thumbnail: "s3.com/image1033.jpg",
+    thumbnail: "game_image_1004.jpg",
     screenshots: [
       "s3.com/image1034.jpg", "s3.com/image1035.jpg", "s3.com/image1036.jpg"
     ]
@@ -46,7 +44,7 @@ const dummyGames = [
     price: 59.99,
     rating: "positive",
     categories: ["rpg", "3rd person", "violent"],
-    thumbnail: "s3.com/image1033.jpg",
+    thumbnail: "game_image_1005.jpg",
     screenshots: [
       "s3.com/image1034.jpg", "s3.com/image1035.jpg", "s3.com/image1036.jpg"
     ]
