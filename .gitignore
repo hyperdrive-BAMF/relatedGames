@@ -1,3 +1,7 @@
+#data generation
+server/parseXML.js
+server/zanesGames.xml
+
 # Logs
 logs
 *.log
