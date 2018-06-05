@@ -11,7 +11,6 @@ class App extends React.Component {
     }
     this.handleGameMouseEntry = this.handleGameMouseEntry.bind(this)
     this.handleGameMouseExit = this.handleGameMouseExit.bind(this)
-
     this.getGameList();
   }
 

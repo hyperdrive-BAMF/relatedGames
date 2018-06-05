@@ -2,6 +2,8 @@
 server/parseXML.js
 server/zanesGames.xml
 
+.DS_Store
+
 # Logs
 logs
 *.log
