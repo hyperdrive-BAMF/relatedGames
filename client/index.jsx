@@ -26,9 +26,9 @@ class App extends React.Component {
     return (
     <div className="col-md-5">Hello from react!!!
       <GameList 
-      handleGameMouseEntry={this.handleGameMouseEntry} 
-      handleGameMouseExit={this.handleGameMouseExit} 
-      games={data}
+        handleGameMouseEntry={this.handleGameMouseEntry} 
+        handleGameMouseExit={this.handleGameMouseExit} 
+        games={data}
       />
     </div>
     )

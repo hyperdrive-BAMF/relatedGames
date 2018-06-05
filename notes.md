@@ -8,5 +8,6 @@
 
 // this is for the background of the site
 // linear-gradient( to bottom, rgba(42,71,94,1.0) 5%, rgba(42,71,94,0.0) 70%)   
+//https://s3-us-west-1.amazonaws.com/steam-game-images1/
 
 */
