@@ -22,3 +22,25 @@
   border-color: red;
   border-style: solid;
 }
+
+.game-entry:hover {
+  background: #c7d5e0;
+  color: #202d39;
+}
+
+.game-icon {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5px;
+  width: 30%;
+  height: auto;
+}
+
+.game-info-text {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 2px;
+  border-width: 1px;
+  border-color: red;
+  border-style: solid;
+}
