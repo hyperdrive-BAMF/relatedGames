@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import $ from 'jquery';
 import GameList from './components/GameList.jsx';
+import GameDetailsSideBar from './components/GameDetailsSideBar.jsx'
 
 class App extends React.Component {
   constructor(props) {
