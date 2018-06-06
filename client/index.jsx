@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import $ from 'jquery';
 import GameList from './components/GameList.jsx';
 import GameDetailsSideBar from './components/GameDetailsSideBar.jsx'
+import style from '../client/style.css';
+
 
 class App extends React.Component {
   constructor(props) {
@@ -41,13 +43,14 @@ class App extends React.Component {
 
   render() {
     return (
-    <div className="col-md-5">Hello from react!!!
-      <GameList 
-        handleGameMouseEntry={this.handleGameMouseEntry} 
-        handleGameMouseExit={this.handleGameMouseExit} 
-        games={this.state.games}
-      />
-    </div>
+      <div className="game-list-container">
+          <GameList 
+            handleGameMouseEntry={this.handleGameMouseEntry} 
+            handleGameMouseExit={this.handleGameMouseExit} 
+            games={this.state.games}
+          />
+          <GameDetailsSideBar />
+      </div>
     )
   }
 }
