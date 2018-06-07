@@ -3,6 +3,8 @@ server/parseXML.js
 server/zanesGames.xml
 
 public/bundle.js
+public/main.js
+public/style.css
 
 .DS_Store
 

@@ -1,20 +1,25 @@
+body {
+  background-image: linear-gradient( to bottom, rgba(42,71,94,1.0) 5%, rgba(42,71,94,0.7) 70%)
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .side-bar {
-  background: #202d39;
-  color: #c7d5e0;
+  background: #c7d5e0;
+  color: #202d39;
   padding: 8px;
-  border-width: 3px;
-  border-color: red;
-  border-style: solid;
   width: 40%;
   box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  margin-top: 8px;
 }
 
 .game-list-container {
   width: 100%;
   max-width: 1000px;
   font-size: 0;
-
 }
 
 .game-list, .side-bar {
@@ -25,17 +30,11 @@
 }
 
 .game-list {
-  background: #202d39;
-  color: #c7d5e0;
-  padding: 8px;
+  padding: 0px;
   width: 60%;
-  border-width: 3px;
-  border-color: red;
-  border-style: solid;
-  box-shadow: 0 1px 2px rgba(0,0,0,.1);
 }
 
-.game-list-heading {
+.game-list-top-bar {
   padding: 8px;
   border-width: 3px;
   border-color: red;
@@ -43,15 +42,17 @@
 }
 
 .game-entry {
-  padding: 8px;
-  border-width: 3px;
-  border-color: red;
-  border-style: solid;
+  background: #202d39;
+  color: #c7d5e0;
+  padding: 0px;
+  margin: 8px;
 }
 
-.game-entry:hover {
+.current-game {
   background: #c7d5e0;
   color: #202d39;
+  margin: 8px;
+  margin-right: 0px; 
 }
 
 .game-icon {
@@ -66,7 +67,4 @@
   display: inline-block;
   vertical-align: middle;
   padding: 2px;
-  border-width: 1px;
-  border-color: red;
-  border-style: solid;
 }

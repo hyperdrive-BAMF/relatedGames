@@ -2,8 +2,8 @@ import React from 'react';
 
 const GameListEntry = props => (
   <div 
-    className="game-entry" 
-    onMouseEnter={props.handleGameMouseEntry}
+    className={props.game.title === props.selectedGame.title ? "current-game" : "game-entry"}
+    onMouseEnter={(game => props.handleGameMouseEntry(game)).bind(null, props.game)}
     onMouseLeave={props.handleGameMouseExit}
   >
     <img 

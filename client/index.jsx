@@ -11,6 +11,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       games: [],
+      selectedGame: {},
     };
     this.handleGameMouseEntry = this.handleGameMouseEntry.bind(this);
     this.handleGameMouseExit = this.handleGameMouseExit.bind(this);
@@ -25,6 +26,7 @@ class App extends React.Component {
         console.log('successful GET');
         this.setState({
           games: data,
+          selectedGame: data[0]
         });
       },
       error: (err) => {
@@ -33,8 +35,11 @@ class App extends React.Component {
     });
   }
 
-  handleGameMouseEntry() {
-    console.log('entered mouse entry handler');
+  handleGameMouseEntry(game) {
+    console.log('game:', game)
+    this.setState({
+      selectedGame: game,
+    });
   }
 
   handleGameMouseExit() {
@@ -43,13 +48,19 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="game-list-container">
-        <GameList 
-          handleGameMouseEntry={this.handleGameMouseEntry} 
-          handleGameMouseExit={this.handleGameMouseExit} 
-          games={this.state.games}
-        />
-        <GameDetailsSideBar />
+      <div className="related-games-container">
+        <div className="game-list-top-bar">List of Related Games!</div>
+        <div className="game-list-container">
+          <GameList 
+            handleGameMouseEntry={this.handleGameMouseEntry} 
+            handleGameMouseExit={this.handleGameMouseExit} 
+            games={this.state.games}
+            selectedGame={this.state.selectedGame}
+          />
+          <GameDetailsSideBar
+            game={this.state.selectedGame} 
+          />
+        </div>
       </div>
     );
   }
