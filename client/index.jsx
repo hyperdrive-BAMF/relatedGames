@@ -23,10 +23,9 @@ class App extends React.Component {
       type: 'GET',
       url: 'http://127.0.0.1:3002/games',
       success: (data) => {
-        console.log('successful GET');
         this.setState({
           games: data,
-          selectedGame: data[0]
+          selectedGame: data[0],
         });
       },
       error: (err) => {
@@ -36,7 +35,6 @@ class App extends React.Component {
   }
 
   handleGameMouseEntry(game) {
-    console.log('game:', game)
     this.setState({
       selectedGame: game,
     });
