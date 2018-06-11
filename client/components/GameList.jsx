@@ -3,10 +3,10 @@ import GameListEntry from './GameListEntry.jsx';
 
 const GameList = props => (
   <div className="game-list" >
-    {props.games.map((game, index) => (
+    {props.games.map(game => (
       <GameListEntry 
         game={game} 
-        key={index}
+        key={game.title}
         handleGameMouseEntry={props.handleGameMouseEntry}
         handleGameMouseExit={props.handleGameMouseExit}
         selectedGame={props.selectedGame}

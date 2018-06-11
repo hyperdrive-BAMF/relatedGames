@@ -21,7 +21,7 @@ class App extends React.Component {
   getGameList() {
     $.ajax({
       type: 'GET',
-      url: 'http://127.0.0.1:3002/games',
+      url: '/games',
       success: (data) => {
         this.setState({
           games: data,
