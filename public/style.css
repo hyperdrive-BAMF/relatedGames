@@ -2,16 +2,14 @@ body {
   background-image: linear-gradient( to top, rgba(42,71,94,1.0) 50%, rgba(42,71,94,0.9) 70%)
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 .related-games-container {
   font-family: Arial, Helvetica, sans-serif;
+  margin-left: 100px;
 }
 
 .screenshot {
+  max-width: 100%;
+  height: auto;
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -73,6 +71,8 @@ img {
   color: #c7d5e0;
   padding: 0px;
   margin: 8px;
+  max-width: 100%;
+  height: auto;
 }
 
 .current-game {

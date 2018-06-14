@@ -1,0 +1,8 @@
+.eslint*
+**/node_modules
+**/*.min.js
+**/public/bundle.js
+**/server/parseXML.js
+**/server/zanesGames.xml
+**/webpack.config.js
+**/client/dummyData.js
