@@ -5,11 +5,15 @@ body {
 img {
   max-width: 100%;
   height: auto;
-  margin: 5px;
 }
 
 .related-games-container {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.screenshot {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .side-bar {
@@ -79,6 +83,7 @@ img {
 }
 
 .game-icon {
+  box-sizing: border-box;
   display: inline-block;
   vertical-align: middle;
   padding: 5px;
@@ -89,5 +94,9 @@ img {
 .game-info-text {
   display: inline-block;
   vertical-align: middle;
+  box-sizing: border-box;
+  width: 70%;
   padding: 2px;
+  white-space: nowrap;
+  overflow: hidden;
 }

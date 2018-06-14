@@ -28,6 +28,7 @@ let save = (data) => {
     }));
   });
 }
+//save(data);
 
 let getFilteredData = (callback) => {
   mongoose.connect('mongodb://localhost/gamesListStore');
