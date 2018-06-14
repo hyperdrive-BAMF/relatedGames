@@ -8,7 +8,7 @@ const GameDetailsSideBar = (props) => {
       (<img 
         className="screenshot"
         src={`https://s3-us-west-1.amazonaws.com/steam-game-images1/${fileName}.jpg`}
-        alt="failed to load"
+        alt="game screenshot"
         key={fileName.toString()}
       />));
   }
