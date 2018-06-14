@@ -47,8 +47,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="related-games-container">
-        <div className="game-list-top-bar">Related Games!</div>
         <div className="game-list-container">
+        <div className="game-list-top-bar">Related Games</div>
           <GameList 
             handleGameMouseEntry={this.handleGameMouseEntry} 
             handleGameMouseExit={this.handleGameMouseExit} 

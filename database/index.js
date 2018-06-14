@@ -35,7 +35,7 @@ let getFilteredData = (callback) => {
   var db = mongoose.connection;
   db.on('error', () => console.log('error connecting to DB on filter'));
   db.once('open', function(){
-    gameList.find({}).sort({'hoursOnRecord': -1}).limit(7).exec(function(err, data){
+    gameList.find({}).sort({'hoursOnRecord': -1}).limit(15).exec(function(err, data){
       if(err) {
         console.log('filter error');
         return callback(err, null)

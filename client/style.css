@@ -27,6 +27,7 @@ body {
   margin: 0 auto;
   max-width: 1000px;
   font-size: 0;
+  font-size: 16px;
 }
 
 .side-bar-game-info-text {
@@ -61,6 +62,7 @@ body {
 
 .game-list-top-bar {
   padding: 8px;
+  margin: 0 auto;
 }
 
 .game-entry {
