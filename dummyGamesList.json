@@ -1,0 +1,3802 @@
+[
+  {
+    "title": "Dota 2",
+    "id": "570",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570/d4f836839254be08d8e9dd333ecc9a01782c26d2.jpg",
+    "logoFileName": "game_logo_1000",
+    "price": "8.91",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Team Fortress 2",
+    "id": "440",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg",
+    "logoFileName": "game_logo_1001",
+    "price": "57.75",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)",
+    "id": "15540",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15540/10c00b46392f9264c87e8d3357713854cf6cecfe.jpg",
+    "logoFileName": "game_logo_1002",
+    "price": "43.88",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "AaAaAA!!! - A Reckless Disregard for Gravity",
+    "id": "15520",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15520/2ae14ebb995bacc54813b1c45cb49332113ba1ea.jpg",
+    "logoFileName": "game_logo_1003",
+    "price": "38.67",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Alien Swarm",
+    "id": "630",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/630/de3320a2c29b55b6f21d142dee26d9b044a29e97.jpg",
+    "logoFileName": "game_logo_1004",
+    "price": "10.14",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "id": "57300",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/75b8a82acfb05abda97977ac4eb5af20e0dcf01e.jpg",
+    "logoFileName": "game_logo_1005",
+    "price": "5.61",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Antichamber",
+    "id": "219890",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219890/23966982a5795854342af3522706c7f9c6a83cb5.jpg",
+    "logoFileName": "game_logo_1006",
+    "price": "58.18",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Aquaria",
+    "id": "24420",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24420/d6ebe90b8bbb2eccfa28616a283e9781694cdba0.jpg",
+    "logoFileName": "game_logo_1007",
+    "price": "44.23",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Assassin's Creed II",
+    "id": "33230",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/33230/6d29461ee9303967cb32c2142afaf9bbdb911b6f.jpg",
+    "logoFileName": "game_logo_1008",
+    "price": "24.94",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Audiosurf",
+    "id": "12900",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12900/75dc0398efeae1cc994714e37c893b593f9c9a88.jpg",
+    "logoFileName": "game_logo_1009",
+    "price": "59.11",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Back to the Future: Ep 1 - It's About Time",
+    "id": "31290",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31290/252a22c149c29a2d93fcb0080f3ee9d2dbbd9a2f.jpg",
+    "logoFileName": "game_logo_1010",
+    "price": "50.39",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Back to the Future: Ep 2 - Get Tannen!",
+    "id": "94500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94500/ae0d863314d6111e6debaef7c9cdcf2940738b1e.jpg",
+    "logoFileName": "game_logo_1011",
+    "price": "8.61",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Back to the Future: Ep 3 - Citizen Brown",
+    "id": "94510",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94510/7fe46585ad7fbc8fedb38db7f8dd8608be5a46ee.jpg",
+    "logoFileName": "game_logo_1012",
+    "price": "15.37",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Back to the Future: Ep 4 - Double Visions",
+    "id": "94520",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94520/ac9fc7c15ae656d200299003ce22ab84185e54e4.jpg",
+    "logoFileName": "game_logo_1013",
+    "price": "43.49",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Back to the Future: Ep 5 - OUTATIME",
+    "id": "94530",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94530/76361dfc1ef09dbb7f6572a6da7ab38a811f54af.jpg",
+    "logoFileName": "game_logo_1014",
+    "price": "16.46",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Baldur's Gate: Enhanced Edition",
+    "id": "228280",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/228280/96053e09239e556f18dd5d5b7965d9de11f02325.jpg",
+    "logoFileName": "game_logo_1015",
+    "price": "52.67",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Banished",
+    "id": "242920",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242920/2a62342148979d18e2b50ab8c5eebcfe6c99295c.jpg",
+    "logoFileName": "game_logo_1016",
+    "price": "36.25",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Bastion",
+    "id": "107100",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/107100/d113d66ef88069d7d35a74cfaf2e2ee917f61133.jpg",
+    "logoFileName": "game_logo_1017",
+    "price": "43.21",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Batman: Arkham Asylum GOTY Edition",
+    "id": "35140",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/35140/172e0928b845c18491f1a8fee0dafe7a146ac129.jpg",
+    "logoFileName": "game_logo_1018",
+    "price": "33.05",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Batman: Arkham City GOTY",
+    "id": "200260",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/9b229e12fd5ce27bd101d5862c19b1a6e3d01239.jpg",
+    "logoFileName": "game_logo_1019",
+    "price": "55.51",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Batman: Arkham City™",
+    "id": "57400",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57400/5456a41d4076244a6c593cbb260c3384493a7727.jpg",
+    "logoFileName": "game_logo_1020",
+    "price": "21.64",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "BattleBlock Theater",
+    "id": "238460",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238460/13380473acaa95f843301b8a21a383790ae384de.jpg",
+    "logoFileName": "game_logo_1021",
+    "price": "45.15",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Besiege",
+    "id": "346010",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/346010/d629e7d15a59c8195d0b1c72f8e9e28e78842c96.jpg",
+    "logoFileName": "game_logo_1022",
+    "price": "47.87",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "BioShock",
+    "id": "7670",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/7670/4c2a7f97e6556a95319eb346aed7beff9fe0535c.jpg",
+    "logoFileName": "game_logo_1023",
+    "price": "19.83",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "BioShock 2",
+    "id": "8850",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8850/fde6fa1b15e4eb409c9d592197024571fded77e7.jpg",
+    "logoFileName": "game_logo_1024",
+    "price": "8.27",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "BioShock 2 Remastered",
+    "id": "409720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/409720/34c3f591cf4cb28711d7f33f73dee0f09cdb94a4.jpg",
+    "logoFileName": "game_logo_1025",
+    "price": "26.00",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "BioShock Infinite",
+    "id": "8870",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8870/870bb889e192cf8d31876ed04d329a5d51c6fc2c.jpg",
+    "logoFileName": "game_logo_1026",
+    "price": "45.32",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "BioShock Remastered",
+    "id": "409710",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/409710/cb7318b68128f6aa90c9e4e2d14544281ac22da0.jpg",
+    "logoFileName": "game_logo_1027",
+    "price": "26.94",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "BIT.TRIP BEAT",
+    "id": "63700",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/63700/86e3cdec2b272f630385b89c7b2bba3ff422c421.jpg",
+    "logoFileName": "game_logo_1028",
+    "price": "37.83",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
+    "id": "218060",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218060/668226870f69db2ac9c1044cf62464d719d51ce3.jpg",
+    "logoFileName": "game_logo_1029",
+    "price": "4.97",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "BIT.TRIP RUNNER",
+    "id": "63710",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/63710/13cdddc55559cd4f47fbe970c9ad0de6bebb2f21.jpg",
+    "logoFileName": "game_logo_1030",
+    "price": "55.47",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Borderlands 2",
+    "id": "49520",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg",
+    "logoFileName": "game_logo_1031",
+    "price": "28.47",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Borderlands: The Pre-Sequel",
+    "id": "261640",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261640/df64c72fd335a03dbcc0a19b1f81acc8db1b94ba.jpg",
+    "logoFileName": "game_logo_1032",
+    "price": "5.73",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Braid",
+    "id": "26800",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/26800/dc76bb847fbb82ca81e122927541398d41638ac8.jpg",
+    "logoFileName": "game_logo_1033",
+    "price": "44.09",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Broken Age",
+    "id": "232790",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/232790/41b5954cafec81314d6f223e38faca0a23501252.jpg",
+    "logoFileName": "game_logo_1034",
+    "price": "49.63",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Bulletstorm",
+    "id": "99810",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/99810/ec0e6043049ae7263b52b917de96aae88f3fb137.jpg",
+    "logoFileName": "game_logo_1035",
+    "price": "21.23",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Cave Story+",
+    "id": "200900",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200900/a242e0465a65ffafbf75eeb521812fb575990a33.jpg",
+    "logoFileName": "game_logo_1036",
+    "price": "42.69",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Cities: Skylines",
+    "id": "255710",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/255710/1b90f32be112870a4fa22c819a358d047b38d97f.jpg",
+    "logoFileName": "game_logo_1037",
+    "price": "18.72",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Cities: Skylines - After Dark",
+    "id": "369150",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/369150/cb4d910e8cec063721cbab4cc5b69e5406b0192c.jpg",
+    "logoFileName": "game_logo_1038",
+    "price": "7.95",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Cogs",
+    "id": "26500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/26500/db01e5e8973e4a9590f1423b9c7c2199d7cb0186.jpg",
+    "logoFileName": "game_logo_1039",
+    "price": "17.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Counter-Strike",
+    "id": "10",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10/af890f848dd606ac2fd4415de3c3f5e7a66fcb9f.jpg",
+    "logoFileName": "game_logo_1040",
+    "price": "49.06",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Counter-Strike: Condition Zero",
+    "id": "80",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/80/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg",
+    "logoFileName": "game_logo_1041",
+    "price": "1.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Counter-Strike: Condition Zero Deleted Scenes",
+    "id": "100",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/100/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg",
+    "logoFileName": "game_logo_1042",
+    "price": "50.46",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Counter-Strike: Global Offensive",
+    "id": "730",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg",
+    "logoFileName": "game_logo_1043",
+    "price": "34.48",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Counter-Strike: Source",
+    "id": "240",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/240/ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283.jpg",
+    "logoFileName": "game_logo_1044",
+    "price": "11.53",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Day of Defeat",
+    "id": "30",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/30/beff21c4d29d2579e794c930bae599cd0c8a8f17.jpg",
+    "logoFileName": "game_logo_1045",
+    "price": "56.58",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Day of Defeat: Source",
+    "id": "300",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/300/e3a4313690bd551495a88e1c01951eb26cec7611.jpg",
+    "logoFileName": "game_logo_1046",
+    "price": "33.04",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Day of the Tentacle Remastered",
+    "id": "388210",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/388210/d652df906f889c9eeb47c52eb9190cbade874493.jpg",
+    "logoFileName": "game_logo_1047",
+    "price": "31.51",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Dear Esther",
+    "id": "203810",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203810/39f2f2baf454fabdd8a6161e9353ebd9ee335ed2.jpg",
+    "logoFileName": "game_logo_1048",
+    "price": "22.97",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Dear Esther: Landmark Edition",
+    "id": "520720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520720/e711038210db7e3fb99719c74b902d7f89abe036.jpg",
+    "logoFileName": "game_logo_1049",
+    "price": "0.15",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Deathmatch Classic",
+    "id": "40",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40/4bb69695ef9d0ae73e73488fb6456aa4ea1215fa.jpg",
+    "logoFileName": "game_logo_1050",
+    "price": "1.10",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Defense Grid 2",
+    "id": "221540",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221540/ea60dcb1d2894b60197da68f841fd41004fbdd89.jpg",
+    "logoFileName": "game_logo_1051",
+    "price": "56.97",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Defense Grid: The Awakening",
+    "id": "18500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18500/4c49c7d19bf3cec0aa453d4d94a0c079e5114a1b.jpg",
+    "logoFileName": "game_logo_1052",
+    "price": "8.58",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Depth",
+    "id": "274940",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274940/ed52c54d3d6ef23b3cfe0a6072528f1f7f546128.jpg",
+    "logoFileName": "game_logo_1053",
+    "price": "40.00",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Deus Ex: Human Revolution",
+    "id": "28050",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/28050/93705ac83aa363ce6ead3f6aad7fa4292d3cd80f.jpg",
+    "logoFileName": "game_logo_1054",
+    "price": "30.60",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Deus Ex: Human Revolution - Director's Cut",
+    "id": "238010",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238010/4bcb3e48bcb2ebb52403b1fc3f43dbd43607ba2e.jpg",
+    "logoFileName": "game_logo_1055",
+    "price": "37.85",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Deus Ex: Mankind Divided™",
+    "id": "337000",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/337000/092d516fd9e9abd05ed0182a9d57695d9b9b1285.jpg",
+    "logoFileName": "game_logo_1056",
+    "price": "15.51",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Distance",
+    "id": "233610",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233610/daaf9db7c35f4ce370658a2be37eac713bd8c8d6.jpg",
+    "logoFileName": "game_logo_1057",
+    "price": "15.05",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "DOOM",
+    "id": "379720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/2e6aa9a14a0da798fe9f1c0a4d0bacecf241c0a2.jpg",
+    "logoFileName": "game_logo_1058",
+    "price": "10.78",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Duelyst",
+    "id": "291410",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291410/6dafd0335dfd77c7aeed9e704b922da6bc532624.jpg",
+    "logoFileName": "game_logo_1059",
+    "price": "31.73",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Dungeon Defenders",
+    "id": "65800",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/65800/71af270cff61ab197f9932212012134a436d9682.jpg",
+    "logoFileName": "game_logo_1060",
+    "price": "21.88",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Dust: An Elysian Tail",
+    "id": "236090",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/236090/544fd60b00696d8c3402828da7055fea64d619ca.jpg",
+    "logoFileName": "game_logo_1061",
+    "price": "26.25",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Dustforce",
+    "id": "65300",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/65300/6b3657f05813efb8061cb67d8989118ba5c7dde3.jpg",
+    "logoFileName": "game_logo_1062",
+    "price": "24.63",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Fallout 2",
+    "id": "38410",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/38410/2ca37c1ab1582d9c50806d5d06ff7a63b60add10.jpg",
+    "logoFileName": "game_logo_1063",
+    "price": "10.97",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Fallout 3 - Game of the Year Edition",
+    "id": "22370",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22370/ddccc41c513694e7a5542aa115e9e091d6495420.jpg",
+    "logoFileName": "game_logo_1064",
+    "price": "47.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Fallout 4",
+    "id": "377160",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/377160/8977a8e98acbbdd3c0ff905afb7e0a6e2eb555ea.jpg",
+    "logoFileName": "game_logo_1065",
+    "price": "42.62",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Fallout: New Vegas",
+    "id": "22380",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22380/1a52975c043227184162627285e4bc0c83216e02.jpg",
+    "logoFileName": "game_logo_1066",
+    "price": "13.18",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Fallout Shelter",
+    "id": "588430",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/588430/bdae0ecd14415771800d7be3f95aa29c7ec7cbc2.jpg",
+    "logoFileName": "game_logo_1067",
+    "price": "29.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Far Cry 2",
+    "id": "19900",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/19900/3fa04cb86e9512e8ff4f520860db163e86243dd8.jpg",
+    "logoFileName": "game_logo_1068",
+    "price": "41.34",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Far Cry 2: Fortunes Pack",
+    "id": "21960",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21960/9676f9e42ed02828d406af360a4408e5ce600df4.jpg",
+    "logoFileName": "game_logo_1069",
+    "price": "8.99",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Far Cry® 3",
+    "id": "220240",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220240/47811cc7821070306a24622b5d33c04c85264279.jpg",
+    "logoFileName": "game_logo_1070",
+    "price": "10.61",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Far Cry® 3 Blood Dragon",
+    "id": "233270",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233270/dfc8d8e94b85a3ce6666069bb5d17c2dbc3fada5.jpg",
+    "logoFileName": "game_logo_1071",
+    "price": "38.06",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "FEZ",
+    "id": "224760",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224760/d2789dc5fb6bfee4d07cd3ec06985593fffd606c.jpg",
+    "logoFileName": "game_logo_1072",
+    "price": "21.71",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "From Dust",
+    "id": "33460",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/33460/beb62362df99066e4ddcf0faa070b3e5cd56dec5.jpg",
+    "logoFileName": "game_logo_1073",
+    "price": "50.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "FTL: Faster Than Light",
+    "id": "212680",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/212680/975193db5ca8cc2a4c969cea8f80d93157264ec1.jpg",
+    "logoFileName": "game_logo_1074",
+    "price": "52.79",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Gish",
+    "id": "9500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9500/881e09524961984c312e2554725ad628acddc51b.jpg",
+    "logoFileName": "game_logo_1075",
+    "price": "52.61",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Gone Home",
+    "id": "232430",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/232430/8d86da75f094220994bdcd5f842469af36cacd8f.jpg",
+    "logoFileName": "game_logo_1076",
+    "price": "49.06",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Grand Theft Auto IV",
+    "id": "12210",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/47fb2a3e0763be24e49662591d6e076c58b2178d.jpg",
+    "logoFileName": "game_logo_1077",
+    "price": "52.61",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "id": "271590",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/e447e82f8b0c67f9e001498503c62f2a187bc609.jpg",
+    "logoFileName": "game_logo_1078",
+    "price": "35.05",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Grim Fandango Remastered",
+    "id": "316790",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/316790/1cd953b329e53555cb1acba0b615edd75ad72ad4.jpg",
+    "logoFileName": "game_logo_1079",
+    "price": "51.85",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Guacamelee! Gold Edition",
+    "id": "214770",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/214770/461f1e9e34cf80edf3581d78c5d24e20501eeaf2.jpg",
+    "logoFileName": "game_logo_1080",
+    "price": "6.87",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Gunpoint",
+    "id": "206190",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/206190/f82deeb9e1b01b8d8247d7824a7ce2f9ca8133f7.jpg",
+    "logoFileName": "game_logo_1081",
+    "price": "28.83",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Guns of Icarus Online",
+    "id": "209080",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/209080/925b7c2a6b698144622bed4bd2d0086114df2fa9.jpg",
+    "logoFileName": "game_logo_1082",
+    "price": "12.19",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Half-Life",
+    "id": "70",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/70/6bd76ff700a8c7a5460fbae3cf60cb930279897d.jpg",
+    "logoFileName": "game_logo_1083",
+    "price": "40.55",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Half-Life 2",
+    "id": "220",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220/e4ad9cf1b7dc8475c1118625daf9abd4bdcbcad0.jpg",
+    "logoFileName": "game_logo_1084",
+    "price": "30.96",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Half-Life 2: Deathmatch",
+    "id": "320",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/320/6dd9f66771300f2252d411e50739a1ceae9e5b30.jpg",
+    "logoFileName": "game_logo_1085",
+    "price": "49.01",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Half-Life 2: Episode One",
+    "id": "380",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/b5a666a961d8b39896887abbed3b78c2b837c238.jpg",
+    "logoFileName": "game_logo_1086",
+    "price": "36.43",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Half-Life 2: Episode Two",
+    "id": "420",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/553e6a2e7a469dcbaada729baa1f5fd7764668df.jpg",
+    "logoFileName": "game_logo_1087",
+    "price": "56.91",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Half-Life 2: Lost Coast",
+    "id": "340",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/340/867cce5c4f37d5ed4aeffb57c60e220ddffe4134.jpg",
+    "logoFileName": "game_logo_1088",
+    "price": "37.87",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Half-Life: Blue Shift",
+    "id": "130",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/130/927d38e83e3e4ca218a0fc7b32515eeb99aa8ff7.jpg",
+    "logoFileName": "game_logo_1089",
+    "price": "5.29",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Half-Life: Opposing Force",
+    "id": "50",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50/bb696ddfd8f8ef0892d5f2154d8617528d3cc2ec.jpg",
+    "logoFileName": "game_logo_1090",
+    "price": "16.84",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Half-Life: Source",
+    "id": "280",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/280/a612dd944b768e55389140298dcfda2165db8ced.jpg",
+    "logoFileName": "game_logo_1091",
+    "price": "34.70",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Half-Life Deathmatch: Source",
+    "id": "360",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/360/9a5b7119d4e8977fffcd370d3c24036be7cee904.jpg",
+    "logoFileName": "game_logo_1092",
+    "price": "18.01",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Hammerwatch",
+    "id": "239070",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239070/e9d676e3fffd764438d0abf602b8e275646c5530.jpg",
+    "logoFileName": "game_logo_1093",
+    "price": "33.85",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Hatoful Boyfriend",
+    "id": "310080",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310080/2bdfe5a272a3c12e2d12add904c92bcce1e1118e.jpg",
+    "logoFileName": "game_logo_1094",
+    "price": "0.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Hector: Ep 1",
+    "id": "94600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94600/fae3324a5c43647dda98be23bf1db4480c031273.jpg",
+    "logoFileName": "game_logo_1095",
+    "price": "56.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Hector: Ep 2",
+    "id": "94610",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94610/52a3e61842a22bf75f6bf6d355400d5b3776f9b4.jpg",
+    "logoFileName": "game_logo_1096",
+    "price": "38.52",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Hector: Ep 3",
+    "id": "94620",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94620/97ec609986c7672a3928e7dca14d9aead4cbf65f.jpg",
+    "logoFileName": "game_logo_1097",
+    "price": "3.83",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "HELLDIVERS™",
+    "id": "394510",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/394510/2063f68f282e0cafc61bee6cbb999171ec3f1648.jpg",
+    "logoFileName": "game_logo_1098",
+    "price": "20.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Homeworld Remastered Collection",
+    "id": "244160",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/244160/781843882c34af271123ae226ba0681cfe52c8d9.jpg",
+    "logoFileName": "game_logo_1099",
+    "price": "33.24",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Hotline Miami",
+    "id": "219150",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219150/540a1457099f072ced7153239861e42f14febd56.jpg",
+    "logoFileName": "game_logo_1100",
+    "price": "34.15",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Hyper Light Drifter",
+    "id": "257850",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257850/313677b416e4ddbb417af42072b9df64f7277106.jpg",
+    "logoFileName": "game_logo_1101",
+    "price": "59.23",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "I Am Alive",
+    "id": "214250",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/214250/26667bbf8e9dfe2ea446b31fb1b7d7c52971ee9b.jpg",
+    "logoFileName": "game_logo_1102",
+    "price": "4.41",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Invisible, Inc.",
+    "id": "243970",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243970/ab1bcfd36b8ae6bfd4dcd37f29c2c9fcd063d936.jpg",
+    "logoFileName": "game_logo_1103",
+    "price": "34.83",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Just Cause 2",
+    "id": "8190",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8190/26c2c027f835e968d78b212b4cc6438f692b027a.jpg",
+    "logoFileName": "game_logo_1104",
+    "price": "59.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Kerbal Space Program",
+    "id": "220200",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220200/52c3e31754351fd276206aa7232972961fae0295.jpg",
+    "logoFileName": "game_logo_1105",
+    "price": "46.50",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Killing Floor",
+    "id": "1250",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1250/354c07a75cc16f6bf551b81d27f4eee3436fc2fb.jpg",
+    "logoFileName": "game_logo_1106",
+    "price": "5.44",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Killing Floor Mod: Defence Alliance 2",
+    "id": "35420",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/35420/45178d4b1999cf466fdf1ee4551f29b7e02b2bdf.jpg",
+    "logoFileName": "game_logo_1107",
+    "price": "56.45",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Lara Croft and the Guardian of Light",
+    "id": "35130",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/35130/fb2fdfd5c7146381b137cb8591c67f6919d6d6ea.jpg",
+    "logoFileName": "game_logo_1108",
+    "price": "53.67",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Left 4 Dead",
+    "id": "500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/500/0f67ee504d8f04ecd83986dd7855821dc21f7a78.jpg",
+    "logoFileName": "game_logo_1109",
+    "price": "26.25",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "id": "550",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg",
+    "logoFileName": "game_logo_1110",
+    "price": "57.91",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "LIMBO",
+    "id": "48000",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/48000/9f35c3d64649a5a03b69d6a9218b1f77caf15025.jpg",
+    "logoFileName": "game_logo_1111",
+    "price": "41.64",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Lugaru HD",
+    "id": "25010",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/25010/882f1dd74fa25600694fde3cdf9dcb9d96a24f5e.jpg",
+    "logoFileName": "game_logo_1112",
+    "price": "15.79",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Machinarium",
+    "id": "40700",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40700/5101b896d69a6eafc32667689a7f5d8756a4ac87.jpg",
+    "logoFileName": "game_logo_1113",
+    "price": "57.89",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Magicka",
+    "id": "42910",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42910/8c59c674ef40f59c3bafde8ff0d59b7994c66477.jpg",
+    "logoFileName": "game_logo_1114",
+    "price": "3.45",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Mark of the Ninja",
+    "id": "214560",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/214560/c20501309696e5bcda98e9e4f2649abc5720a1d1.jpg",
+    "logoFileName": "game_logo_1115",
+    "price": "45.83",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Mark of the Ninja: Special Edition DLC",
+    "id": "239570",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239570/44808654312683dd766f58211602cecfbba1e6c2.jpg",
+    "logoFileName": "game_logo_1116",
+    "price": "16.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Mass Effect",
+    "id": "17460",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/17460/7501ea5009533fa5c017ec1f4b94725d67ad4936.jpg",
+    "logoFileName": "game_logo_1117",
+    "price": "32.22",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Mass Effect 2",
+    "id": "24980",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24980/d446fe6d77c9f434cd7fd871400b978fc01fb4e7.jpg",
+    "logoFileName": "game_logo_1118",
+    "price": "42.89",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Max Payne 3",
+    "id": "204100",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204100/135cf60686c2bf570999b96d5c29eb31e962293a.jpg",
+    "logoFileName": "game_logo_1119",
+    "price": "46.35",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Middle-earth™: Shadow of Mordor™",
+    "id": "241930",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241930/00631b918ee8799ff48b3d91d9eb0d3278aafa83.jpg",
+    "logoFileName": "game_logo_1120",
+    "price": "47.40",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Minerva's Den Remastered",
+    "id": "525720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525720/292623d45218d9a3e8477e987126bcdf01cc507d.jpg",
+    "logoFileName": "game_logo_1121",
+    "price": "34.34",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Mirror's Edge",
+    "id": "17410",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/17410/8c5a900802fabf20a7922c6a69cec9320c940514.jpg",
+    "logoFileName": "game_logo_1122",
+    "price": "24.37",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Monaco",
+    "id": "113020",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/113020/60642017342ab7f3c924ee9d13b99702a50e5d9e.jpg",
+    "logoFileName": "game_logo_1123",
+    "price": "26.37",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Monkey Island 2: Special Edition",
+    "id": "32460",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/32460/520648565e99a6a8afa4f92a55dc4a3d39400768.jpg",
+    "logoFileName": "game_logo_1124",
+    "price": "56.30",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Neverwinter",
+    "id": "109600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/109600/1ebf1c62f2b2208d12079915b7229d43dd003349.jpg",
+    "logoFileName": "game_logo_1125",
+    "price": "34.90",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Orcs Must Die!",
+    "id": "102600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/102600/9b79e98212c10141aac10471be1c5efa9786bad8.jpg",
+    "logoFileName": "game_logo_1126",
+    "price": "7.58",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Orcs Must Die! 2",
+    "id": "201790",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/201790/c345d9b205f349f0e7f4e6cdf8af4d0b7d242505.jpg",
+    "logoFileName": "game_logo_1127",
+    "price": "15.84",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Orcs Must Die! Unchained",
+    "id": "427270",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427270/bc5f6af1e237d9306de6c1ea3ce65a35f495f9f7.jpg",
+    "logoFileName": "game_logo_1128",
+    "price": "4.88",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Ori and the Blind Forest",
+    "id": "261570",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261570/e8b71ff338698994bca662ec8e6cf930f2ddc98b.jpg",
+    "logoFileName": "game_logo_1129",
+    "price": "55.27",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Osmos",
+    "id": "29180",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/29180/d14a2097cad1a45fdb6eca2c22cc31d8dd133705.jpg",
+    "logoFileName": "game_logo_1130",
+    "price": "8.68",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Painkiller: Gold Edition",
+    "id": "3200",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3200/9779256adc151abf34248362ac0ffc700ef92623.jpg",
+    "logoFileName": "game_logo_1131",
+    "price": "12.71",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Party Hard",
+    "id": "356570",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356570/ebc77c87455cdf264a0934b41d76a08773a00c7e.jpg",
+    "logoFileName": "game_logo_1132",
+    "price": "5.86",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "PAYDAY 2",
+    "id": "218620",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4467a70648f49a6b309b41b81b4531f9a20ed99d.jpg",
+    "logoFileName": "game_logo_1133",
+    "price": "35.63",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Penumbra: Overture",
+    "id": "22180",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22180/16ebed8c557f592b5d3bd4f8c2b52ba9b4afe578.jpg",
+    "logoFileName": "game_logo_1134",
+    "price": "11.05",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Pillars of Eternity",
+    "id": "291650",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291650/e9b3535258d3bcb9c34f1779109de3607a661bc0.jpg",
+    "logoFileName": "game_logo_1135",
+    "price": "32.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Plants vs. Zombies: Game of the Year",
+    "id": "3590",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg",
+    "logoFileName": "game_logo_1136",
+    "price": "6.65",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "id": "578080",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/578080/2d2732a33511b58c69aff6b098a22687a3bb8533.jpg",
+    "logoFileName": "game_logo_1137",
+    "price": "25.77",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Poker Night at the Inventory",
+    "id": "31280",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg",
+    "logoFileName": "game_logo_1138",
+    "price": "19.44",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Portal",
+    "id": "400",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400/4184d4c0d915bd3a45210667f7b25361352acd8f.jpg",
+    "logoFileName": "game_logo_1139",
+    "price": "42.85",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Portal 2",
+    "id": "620",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620/d2a1119ddc202fab81d9b87048f495cbd6377502.jpg",
+    "logoFileName": "game_logo_1140",
+    "price": "5.32",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Portal 2 - The Final Hours",
+    "id": "104600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/104600/c9a1b366697ace2dbfe52d4a9b008bb125ee473f.jpg",
+    "logoFileName": "game_logo_1141",
+    "price": "53.45",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Portal Stories: Mel",
+    "id": "317400",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/317400/f2b748a13a54b5613a8efe07553222c0de694f20.jpg",
+    "logoFileName": "game_logo_1142",
+    "price": "36.18",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Prison Architect",
+    "id": "233450",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg",
+    "logoFileName": "game_logo_1143",
+    "price": "12.22",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Psychonauts",
+    "id": "3830",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3830/b361ab26b2c47d4abd11be0ebd3d6b675512ec1b.jpg",
+    "logoFileName": "game_logo_1144",
+    "price": "44.19",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Psychonauts Demo",
+    "id": "3840",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3840/17381fadfb9ddb04d9ba4fbebe0129de2c99af34.jpg",
+    "logoFileName": "game_logo_1145",
+    "price": "55.85",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Puzzle Agent",
+    "id": "31270",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31270/f1bd7dd0bae1026b17c61a605a567ed68e683fef.jpg",
+    "logoFileName": "game_logo_1146",
+    "price": "30.84",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Puzzle Agent 2",
+    "id": "94590",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/94590/b7aac2e076fb1c5178681e2cab0f8bae4380c96d.jpg",
+    "logoFileName": "game_logo_1147",
+    "price": "46.93",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Quantum Conundrum",
+    "id": "200010",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200010/713c07c78de26fd153352645245935977d5e7787.jpg",
+    "logoFileName": "game_logo_1148",
+    "price": "38.91",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Receiver",
+    "id": "234190",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/234190/d196b7d65fa6db4937fe1eedecfba1fb2ae7700f.jpg",
+    "logoFileName": "game_logo_1149",
+    "price": "29.11",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Republique",
+    "id": "317100",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/317100/49e24bb1c54371f03687e6f507d10916e94cf0ef.jpg",
+    "logoFileName": "game_logo_1150",
+    "price": "23.06",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Revenge of the Titans",
+    "id": "93200",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/93200/68ebad4132877c76e07d9866e4b20f2067ad4942.jpg",
+    "logoFileName": "game_logo_1151",
+    "price": "30.24",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Ricochet",
+    "id": "60",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/60/f7a039402735c2dea82cbd412340873535e2be4c.jpg",
+    "logoFileName": "game_logo_1152",
+    "price": "37.59",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Rocket League",
+    "id": "252950",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252950/3854e40582bc14b8ba3c9ee163a0fa64bc538def.jpg",
+    "logoFileName": "game_logo_1153",
+    "price": "42.26",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Rocksmith",
+    "id": "205190",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205190/5e85d47e16fec552af8019b20e9783e28a9a598a.jpg",
+    "logoFileName": "game_logo_1154",
+    "price": "44.26",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Rocksmith® 2014 Edition - Remastered",
+    "id": "221680",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221680/f7d201a1638d020101fade6d8d51cf09c33b3b1c.jpg",
+    "logoFileName": "game_logo_1155",
+    "price": "33.52",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Rogue Legacy",
+    "id": "241600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/c591f688add1e008d5d92e82b9d9fa2332e20491.jpg",
+    "logoFileName": "game_logo_1156",
+    "price": "54.00",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "RUSH",
+    "id": "38720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/38720/b1359d9a1d37199493dee056a854ff70735924de.jpg",
+    "logoFileName": "game_logo_1157",
+    "price": "49.14",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Sam & Max 301: The Penal Zone",
+    "id": "31220",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31220/517196c999fe6316134332e749782154bde9adf5.jpg",
+    "logoFileName": "game_logo_1158",
+    "price": "5.17",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Sam & Max 302: The Tomb of Sammun-Mak",
+    "id": "31230",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31230/517196c999fe6316134332e749782154bde9adf5.jpg",
+    "logoFileName": "game_logo_1159",
+    "price": "5.30",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "Sam & Max 303: They Stole Max's Brain!",
+    "id": "31240",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31240/517196c999fe6316134332e749782154bde9adf5.jpg",
+    "logoFileName": "game_logo_1160",
+    "price": "9.26",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "Sam & Max 304: Beyond the Alley of the Dolls",
+    "id": "31250",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31250/62ef5af2ce55bb787ff490126c110c41131043bc.jpg",
+    "logoFileName": "game_logo_1161",
+    "price": "18.94",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "Sam & Max 305: The City that Dares not Sleep",
+    "id": "31260",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31260/62ef5af2ce55bb787ff490126c110c41131043bc.jpg",
+    "logoFileName": "game_logo_1162",
+    "price": "53.45",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "Samorost 2",
+    "id": "40720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40720/a24053b3f27762f09b0ced6b409711ad90c87fc0.jpg",
+    "logoFileName": "game_logo_1163",
+    "price": "52.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "Sanctum",
+    "id": "91600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/91600/d63198590c7bab5a332327a54f8ed0a00ac4b0d3.jpg",
+    "logoFileName": "game_logo_1164",
+    "price": "44.34",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "Secrets of Grindea",
+    "id": "269770",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269770/3f0a4c7f4ecee7b13563a65008e35e3501408e43.jpg",
+    "logoFileName": "game_logo_1165",
+    "price": "41.31",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Sid Meier's Civilization V",
+    "id": "8930",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8930/2203f62bd1bdc75c286c13534e50f22e3bd5bb58.jpg",
+    "logoFileName": "game_logo_1166",
+    "price": "41.23",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Skyrim High Resolution Texture Pack",
+    "id": "202485",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202485/032646ff6f554f797c5de7bad04fa674b6d7f485.jpg",
+    "logoFileName": "game_logo_1167",
+    "price": "59.66",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Source Filmmaker",
+    "id": "1840",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1840/a6582cbd44dfc66cc78e113ca26bd74f7812c621.jpg",
+    "logoFileName": "game_logo_1168",
+    "price": "35.34",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "South Park™: The Stick of Truth™",
+    "id": "213670",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/213670/659c39e8727258477a5fab408ed0cf0c79b67fbc.jpg",
+    "logoFileName": "game_logo_1169",
+    "price": "55.99",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Starbound",
+    "id": "211820",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/211820/38652d0a34354f77e37073aeb5e8e9619d2c5308.jpg",
+    "logoFileName": "game_logo_1170",
+    "price": "42.03",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Starbound - Unstable",
+    "id": "367540",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367540/53eb828591fb86c72358b7939dde633ba3e5c6c7.jpg",
+    "logoFileName": "game_logo_1171",
+    "price": "18.13",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "Stardew Valley",
+    "id": "413150",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/694de1f9cf09aba9d6d118bcff07714343529a0a.jpg",
+    "logoFileName": "game_logo_1172",
+    "price": "9.58",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Super Meat Boy",
+    "id": "40800",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/70f084857297d5fdd96d019db3a990d6d9ec64f1.jpg",
+    "logoFileName": "game_logo_1173",
+    "price": "36.19",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Surgeon Simulator",
+    "id": "233720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg",
+    "logoFileName": "game_logo_1174",
+    "price": "59.18",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Team Fortress Classic",
+    "id": "20",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/20/515bc393c861d91b9165f0697040c015f50bcb5e.jpg",
+    "logoFileName": "game_logo_1175",
+    "price": "47.33",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Terraria",
+    "id": "105600",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/105600/783399da7d865b7b5b1560891b1e9463345e8fa9.jpg",
+    "logoFileName": "game_logo_1176",
+    "price": "13.08",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "The Ball",
+    "id": "35460",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/35460/98da4a39d1f624aeaa0c7d513f541fe4d21a7e64.jpg",
+    "logoFileName": "game_logo_1177",
+    "price": "15.42",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "id": "72850",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/72850/c5af3cde13610fca25cd17634a96d72487d21e74.jpg",
+    "logoFileName": "game_logo_1178",
+    "price": "34.75",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "The Secret of Monkey Island: Special Edition",
+    "id": "32360",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/32360/def80542d013e251b343bd5047e640672448063d.jpg",
+    "logoFileName": "game_logo_1179",
+    "price": "20.03",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  },
+  {
+    "title": "The Stanley Parable",
+    "id": "221910",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221910/80de64fedc906c4d81123e7ddc1d61d39183ab2d.jpg",
+    "logoFileName": "game_logo_1180",
+    "price": "34.68",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1001",
+      "game_image_1002",
+      "game_image_1003",
+      "game_image_1004"
+    ]
+  },
+  {
+    "title": "The Swapper",
+    "id": "231160",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/231160/11e08b7b00d8a24a1f83dec3e7c2ca08e98be78a.jpg",
+    "logoFileName": "game_logo_1181",
+    "price": "21.94",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1005",
+      "game_image_1006",
+      "game_image_1007",
+      "game_image_1008"
+    ]
+  },
+  {
+    "title": "The Walking Dead",
+    "id": "207610",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/207610/6d756726214dd97c54966814d58508b86d5eabcf.jpg",
+    "logoFileName": "game_logo_1182",
+    "price": "36.47",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1009",
+      "game_image_1010",
+      "game_image_1011",
+      "game_image_1012"
+    ]
+  },
+  {
+    "title": "The Walking Dead: Season Two",
+    "id": "261030",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261030/fcfbf375cb9249601eca22c1847447b92e15d82d.jpg",
+    "logoFileName": "game_logo_1183",
+    "price": "37.76",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1013",
+      "game_image_1014",
+      "game_image_1015",
+      "game_image_1016"
+    ]
+  },
+  {
+    "title": "The Wonderful End of the World",
+    "id": "15500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15500/1ae4ae727ee92c221e20aaee9174c53a0cc58d26.jpg",
+    "logoFileName": "game_logo_1184",
+    "price": "1.61",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1017",
+      "game_image_1018",
+      "game_image_1019",
+      "game_image_1020"
+    ]
+  },
+  {
+    "title": "They Bleed Pixels",
+    "id": "211260",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/211260/691cc3294f26067a79e8c5fdf276b61698de24ca.jpg",
+    "logoFileName": "game_logo_1185",
+    "price": "12.86",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1021",
+      "game_image_1022",
+      "game_image_1023",
+      "game_image_1024"
+    ]
+  },
+  {
+    "title": "Thomas Was Alone",
+    "id": "220780",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220780/b2194d8b207193e0e3d8ae2bc47a91685c577750.jpg",
+    "logoFileName": "game_logo_1186",
+    "price": "46.18",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1025",
+      "game_image_1026",
+      "game_image_1027",
+      "game_image_1028"
+    ]
+  },
+  {
+    "title": "Tiny and Big: Grandpa's Leftovers",
+    "id": "205910",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205910/794f54ce125b1528293c521c99924e749cc3e394.jpg",
+    "logoFileName": "game_logo_1187",
+    "price": "25.73",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1029",
+      "game_image_1030",
+      "game_image_1031",
+      "game_image_1032"
+    ]
+  },
+  {
+    "title": "Toki Tori",
+    "id": "38700",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/38700/7840e49fc48b78295983973d0d2158d020fa5f75.jpg",
+    "logoFileName": "game_logo_1188",
+    "price": "25.03",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1033",
+      "game_image_1034",
+      "game_image_1035",
+      "game_image_1036"
+    ]
+  },
+  {
+    "title": "Tomb Raider",
+    "id": "203160",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg",
+    "logoFileName": "game_logo_1189",
+    "price": "26.17",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1037",
+      "game_image_1038",
+      "game_image_1039",
+      "game_image_1040"
+    ]
+  },
+  {
+    "title": "Torchlight",
+    "id": "41500",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41500/e36226c6a0575e6e1838e1f915e91f8b31ab3008.jpg",
+    "logoFileName": "game_logo_1190",
+    "price": "57.01",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1041",
+      "game_image_1042",
+      "game_image_1043",
+      "game_image_1044"
+    ]
+  },
+  {
+    "title": "Torchlight II",
+    "id": "200710",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200710/fd37abb86628ff54ed304f75c2fb7cf75a4f6902.jpg",
+    "logoFileName": "game_logo_1191",
+    "price": "3.76",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1045",
+      "game_image_1046",
+      "game_image_1047",
+      "game_image_1048"
+    ]
+  },
+  {
+    "title": "To the Moon",
+    "id": "206440",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/206440/f0e5a7037facd7bff7656ebe2396a23735c608c2.jpg",
+    "logoFileName": "game_logo_1192",
+    "price": "20.30",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1049",
+      "game_image_1050",
+      "game_image_1051",
+      "game_image_1052"
+    ]
+  },
+  {
+    "title": "Transistor",
+    "id": "237930",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/237930/705c88fb22dc45a6e886f5afd96ba3c2e258aa06.jpg",
+    "logoFileName": "game_logo_1193",
+    "price": "19.27",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1053",
+      "game_image_1054",
+      "game_image_1055",
+      "game_image_1056"
+    ]
+  },
+  {
+    "title": "Transistor Soundtrack",
+    "id": "299240",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299240/5cb95c008663c7b94729f37f08593c90a4222ae4.jpg",
+    "logoFileName": "game_logo_1194",
+    "price": "36.80",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1057",
+      "game_image_1058",
+      "game_image_1059",
+      "game_image_1060"
+    ]
+  },
+  {
+    "title": "Trine 2",
+    "id": "35720",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/35720/7d7c3b93bd85ad1db2a07f6cca01a767069c6407.jpg",
+    "logoFileName": "game_logo_1195",
+    "price": "16.87",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1061",
+      "game_image_1062",
+      "game_image_1063",
+      "game_image_1064"
+    ]
+  },
+  {
+    "title": "Universe Sandbox",
+    "id": "72200",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/72200/e18118df8174e2e0538be9fc2e9f8fac9e8e5d8c.jpg",
+    "logoFileName": "game_logo_1196",
+    "price": "12.08",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1065",
+      "game_image_1066",
+      "game_image_1067",
+      "game_image_1068"
+    ]
+  },
+  {
+    "title": "Wallace & Gromit Ep 1: Fright of the Bumblebees",
+    "id": "31100",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31100/6b303e67e65d39cd3747ed21efb42de9ddb0d251.jpg",
+    "logoFileName": "game_logo_1197",
+    "price": "10.36",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1069",
+      "game_image_1070",
+      "game_image_1071",
+      "game_image_1072"
+    ]
+  },
+  {
+    "title": "Wallace & Gromit Ep 2: The Last Resort",
+    "id": "31110",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31110/7cda224cf65955e5e763ce8eff0b099add72f04e.jpg",
+    "logoFileName": "game_logo_1198",
+    "price": "1.63",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1073",
+      "game_image_1074",
+      "game_image_1075",
+      "game_image_1076"
+    ]
+  },
+  {
+    "title": "Wallace & Gromit Ep 3: Muzzled!",
+    "id": "31120",
+    "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/31120/3910a6ff5e48c5f7ed249b48387bc321504db73c.jpg",
+    "logoFileName": "game_logo_1199",
+    "price": "44.45",
+    "description": "this is a description of the game. Need to implement",
+    "categories": [
+      "action ",
+      "adventure ",
+      "rpg "
+    ],
+    "screenshots": [
+      "game_image_1077",
+      "game_image_1078",
+      "game_image_1079",
+      "game_image_1080"
+    ]
+  }
+]
