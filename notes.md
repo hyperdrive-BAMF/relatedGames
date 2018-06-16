@@ -11,3 +11,41 @@
 //https://s3-us-west-1.amazonaws.com/steam-game-images1/
 
 */
+
+
+// var MongoClient = require('mongodb').MongoClient;
+// let getFilteredData = (callback) => {
+//   MongoClient.connect(uri, function(err, client) {
+//     if(err) return console.log('error in MongoClient:', err)
+//    const collection = client.db("test").collection("gamelists");
+//    // perform actions on the collection object
+//     collection.find({}).limit(12).exec(function(err, data){
+//       if(err) {
+//         console.log('filter error');
+//         return callback(err, null)
+//       }
+//       console.log('got data from db:', data)
+//       callback(null, data)
+//       client.close();
+//     });
+   
+//   });
+// }
+
+//
+
+// let save = (data) => {
+//   mongoose.connect('mongodb://localhost/gamesListStore');
+//   var db = mongoose.connection;
+//   db.on('error', () => console.log('error connecting to DB'));
+//   db.once('open', function(){
+//     gameList.insertMany(data, (function(err) {
+//       if(err){
+//         return console.log(err);
+//       }
+//       console.log('saved!')
+//       db.close();
+//     }));
+//   });
+// }
+// //save(data);

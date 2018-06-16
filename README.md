@@ -5,3 +5,7 @@
 ## Usage
 
 mongoimport -d gamesListStore -c gamelists --type json --file dummyGamesList.json --jsonArray
+
+
+
+

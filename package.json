@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "build": "webpack -d --watch",
-    "start": "nodemon server/server.js",
+    "start": "node Server/server.js",
+    "server-dev": "nodemon server/server.js",
     "lint": "./node_modules/.bin/eslint ."
   },
   "repository": {

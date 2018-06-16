@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
-const data = require('../client/dummyData.js')
+//const data = require('../client/dummyData.js');
+
+const path = process.env.dbPath || 'mongodb://localhost/gamesListStore';
 
 let gameListSchema = mongoose.Schema({
   title: String,
@@ -12,14 +14,15 @@ let gameListSchema = mongoose.Schema({
   screenshots: Object
 });
 
+
 let gameList = mongoose.model('gameList', gameListSchema);
 
 let getFilteredData = (callback) => {
-  mongoose.connect('mongodb://localhost/gamesListStore');
+  mongoose.connect(path);
   var db = mongoose.connection;
   db.on('error', () => console.log('error connecting to DB on filter'));
   db.once('open', function(){
-    gameList.find({}).sort({'hoursOnRecord': -1}).limit(12).exec(function(err, data){
+    gameList.find({}).sort({'price': -1}).limit(12).exec(function(err, data){
       if(err) {
         console.log('filter error');
         return callback(err, null)
@@ -30,23 +33,7 @@ let getFilteredData = (callback) => {
   })
 }
 
-// let save = (data) => {
-//   mongoose.connect('mongodb://localhost/gamesListStore');
-//   var db = mongoose.connection;
-//   db.on('error', () => console.log('error connecting to DB'));
-//   db.once('open', function(){
-//     gameList.insertMany(data, (function(err) {
-//       if(err){
-//         return console.log(err);
-//       }
-//       console.log('saved!')
-//       db.close();
-//     }));
-//   });
-// }
-// //save(data);
-
 module.exports.getFilteredData = getFilteredData;
-module.exports.save = save;
+//module.exports.save = save;
 
 

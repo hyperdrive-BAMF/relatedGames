@@ -1,10 +1,10 @@
 const express = require('express');
 const databaseHandler = require('../database/index.js')
+const port = process.env.PORT || 3002;
 const app = express();
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
-  //res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
 });
 
@@ -16,9 +16,9 @@ app.get('/games', (req, res) => {
       res.status(500).send('error retrieving data', err);
       return console.log('error retrieving data', err)
     }
-    console.log('got data!')
+    console.log('got data!',data)
     res.status(200).send(data)
   })
 })
 
-app.listen(3002, () => console.log('Listening on port 3002'))
+app.listen(port, () => console.log(`Listening on port ${port}`))

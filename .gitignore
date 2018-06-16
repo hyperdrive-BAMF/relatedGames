@@ -6,6 +6,8 @@ public/bundle.js
 public/main.js
 public/style.css
 
+mongoAtlas.md
+
 .DS_Store
 .elasticbeanstalk/
 
