@@ -41,7 +41,7 @@ class App extends React.Component {
   }
 
   handleGameMouseExit() {
-    console.log('entered mouse exit handler');
+    console.log('this needs to go');
   }
 
   render() {
